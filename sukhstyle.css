@@ -1,0 +1,210 @@
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 300%;
+  text-align: center;
+  width: 29%;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+  padding-bottom: 40px;
+  text-align: center;
+  margin-top: 0;
+}
+
+body {
+
+  font-family: 'Merriweather', serif;
+  margin: 0 auto 0 auto;
+
+}
+.text{
+  text-align: center;
+}
+
+hr {
+  color: lightgray;
+  width: 10%;
+  border-style: dotted;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 8px;
+  border-top-width: 0;
+  margin-bottom: 0;
+  padding-top: 40px;
+
+}
+table
+{
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+td  {
+border: 1px solid #ddd;
+padding: 8px;
+}
+tr:nth-child(even){background-color: #29c7ac;}
+
+tr:hover {background-color:#3e8e41;}
+
+th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: left;
+background-color: #4cd3c2;
+color: white;
+}
+a
+{
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+  font-size: 120%;
+  margin: 0 10px;
+color: #29c7ac;
+}
+a:hover {color:#3e8e41;}
+.imgmou {
+  margin: 0;
+  padding: 0;
+}
+
+.topbox {
+  padding-top: 100px;
+  margin-bottom: 0;
+  background-color: #43d8c9;
+  position: relative
+}
+
+.secbox {
+  padding-top: 60px;
+  background-color: #29c7ac;
+  position: relative;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.thirdbox {
+  margin-top: 30px;
+  padding-top: 50px;
+  background-color: #2fc4b2;
+  padding-bottom: 0;
+  margin: 0 auto 0 auto;
+}
+
+.forthbox {
+  padding-top: 30px;
+  background-color: #00bdaa;
+  position: relative;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.fifthbox {
+  padding-top: 50px;
+  background-color: #4cd3c2;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.sixthbox {
+  padding-top: 50px;
+  background-color: #96d1c7;
+  position: relative;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+}
+
+.imgcl1 {
+  top: 50px;
+  right: 28%;
+  position: absolute;
+}
+
+.imgcl2 {
+  position: absolute;
+}
+
+.imgm {
+  margin: 0;
+}
+
+.myimg {
+  position: relative;
+  width: 17%;
+  padding-bottom: 30px;
+}
+.paragraph{
+  width: 40%;
+  text-align: center;
+  margin: 0 auto;
+}
+.skillimg1 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skilldiv {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimg2 {
+  width: 15%;
+  float: right;
+}
+
+.skilldiv2 {
+  width: 50%;
+  margin: 30px auto;
+  text-align: left;
+  line-height: 2
+}
+.logoacqa{
+  width: 15%;
+  border-color: #4cd3c2;
+  padding-bottom: 60px;
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:  #007cb9;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #fff;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.topbox1{
+  margin-bottom: 0;
+  background-color: #43d8c9;
+  position: relative;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+
+}
+.accdemic{
+    background-color:  #43d8c9;
+}
+.copy{
+  font-size: 60%;
+  padding-top: 30px;
+}
